@@ -1,0 +1,91 @@
+{
+  "data" : {
+    "index" : 9,
+    "meetings" : [ {
+      "id" : 1,
+      "name" : "Meetingas 1",
+      "attendees" : [ {
+        "name" : "Tomas",
+        "time" : [ 2022, 1, 30, 12, 0 ]
+      }, {
+        "name" : "Jonas",
+        "time" : [ 2022, 1, 30, 12, 30 ]
+      }, {
+        "name" : "Tomas4",
+        "time" : [ 2023, 1, 30, 16, 0 ]
+      } ],
+      "responsiblePerson" : "Jonas",
+      "description" : "test1",
+      "category" : "Short",
+      "type" : "Live",
+      "startDate" : [ 2022, 1, 30, 12, 0 ],
+      "endDate" : [ 2022, 1, 30, 15, 0 ]
+    }, {
+      "id" : 2,
+      "name" : "Meetingas 2",
+      "attendees" : [ {
+        "name" : "Tomas",
+        "time" : [ 2022, 1, 30, 16, 0 ]
+      }, {
+        "name" : "Jonas",
+        "time" : [ 2022, 1, 30, 16, 30 ]
+      } ],
+      "responsiblePerson" : "Jonas",
+      "description" : "test1",
+      "category" : "Short",
+      "type" : "Live",
+      "startDate" : [ 2022, 1, 30, 16, 0 ],
+      "endDate" : [ 2022, 1, 30, 18, 0 ]
+    }, {
+      "id" : 3,
+      "name" : "Meetingas 3",
+      "attendees" : [ {
+        "name" : "Tadas",
+        "time" : [ 2022, 1, 30, 16, 0 ]
+      }, {
+        "name" : "Donatas",
+        "time" : [ 2022, 1, 30, 16, 30 ]
+      } ],
+      "responsiblePerson" : "Tadas",
+      "description" : "test1",
+      "category" : "Short",
+      "type" : "Live",
+      "startDate" : [ 2022, 11, 20, 18, 0 ],
+      "endDate" : [ 2022, 11, 20, 20, 0 ]
+    },
+      {
+        "id" : 4,
+        "name" : "Meetingas 4",
+        "attendees" : [ {
+          "name" : "Tadas",
+          "time" : [ 2022, 1, 30, 16, 0 ]
+        }, {
+          "name" : "Donatas",
+          "time" : [ 2022, 1, 30, 16, 30 ]
+        } ],
+        "responsiblePerson" : "Tadas",
+        "description" : "test1",
+        "category" : "Short",
+        "type" : "Live",
+        "startDate" : [ 2022, 11, 20, 18, 0 ],
+        "endDate" : [ 2022, 11, 20, 20, 0 ]
+      },
+      {
+        "id" : 5,
+        "name" : "Meetingas 5",
+        "attendees" : [ {
+          "name" : "Tadas",
+          "time" : [ 2022, 1, 30, 16, 0 ]
+        }, {
+          "name" : "Donatas",
+          "time" : [ 2022, 1, 30, 16, 30 ]
+        } ],
+        "responsiblePerson" : "Tadas",
+        "description" : "test1",
+        "category" : "Short",
+        "type" : "Live",
+        "startDate" : [ 2022, 11, 20, 18, 0 ],
+        "endDate" : [ 2022, 11, 20, 20, 0 ]
+      } ]
+  }
+}

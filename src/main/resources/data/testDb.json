@@ -1,0 +1,38 @@
+{
+  "data" : {
+    "index" : 3,
+    "meetings" : [ {
+      "id" : 2,
+      "name" : "Meetingas A",
+      "attendees" : [ {
+        "name" : "Tomas",
+        "time" : [ 2021, 1, 30, 13, 1 ]
+      }, {
+        "name" : "Jonas",
+        "time" : [ 2021, 1, 30, 13, 1 ]
+      } ],
+      "responsiblePerson" : "Audrius",
+      "description" : "Jono Java meetas",
+      "category" : "Short",
+      "type" : "Live",
+      "startDate" : [ 2021, 1, 30, 13, 0 ],
+      "endDate" : [ 2021, 1, 30, 16, 30 ]
+    }, {
+      "id" : 3,
+      "name" : "Meetingas B",
+      "attendees" : [ {
+        "name" : "Tomas",
+        "time" : [ 2021, 1, 30, 16, 1 ]
+      }, {
+        "name" : "Irmantas",
+        "time" : [ 2021, 1, 30, 16, 1 ]
+      } ],
+      "responsiblePerson" : "Irmantas",
+      "description" : "Tomo C++ meetas",
+      "category" : "Hub",
+      "type" : "InPerson",
+      "startDate" : [ 2021, 1, 30, 16, 0 ],
+      "endDate" : [ 2021, 1, 30, 18, 0 ]
+    } ]
+  }
+}
